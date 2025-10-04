@@ -1,4 +1,3 @@
-[README_Datalogger_ESP32_Pedro.md](https://github.com/user-attachments/files/22691875/README_Datalogger_ESP32_Pedro.md)
 # README – Datalogger IoT ESP32 + YL-83 + RTC + microSD + LCD + MQTT
 
 **Autor:** Pedro Iván Palomino Viera  
